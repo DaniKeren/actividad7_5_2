@@ -17,6 +17,8 @@ public class HolaMundo752 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("primer paso");
+        System.out.println("segundo paso");
+
     }
     
 }
